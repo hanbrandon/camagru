@@ -1,0 +1,1 @@
+cat /var/log/mail.log
