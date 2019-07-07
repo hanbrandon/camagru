@@ -86,8 +86,8 @@ try
 	}
 	else
 	{
-		$stmt = $conn->prepare("INSERT INTO users (username, passwd, email, `hash`) VALUES(?, ?, ?, ?)");
-		$val = $stmt->execute(array($username, $passwd, $email, $hash));
+		$stmt = $conn->prepare("INSERT INTO users (username, passwd, email, `hash`, verification) VALUES(?, ?, ?, ?, ?)");
+		$val = $stmt->execute(array($username, $passwd, $email, $hash, 1));
 		if ($val)
 		{	
 			email_verify($email, $username, $hash, $DB_PORT);
