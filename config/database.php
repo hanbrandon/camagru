@@ -6,10 +6,10 @@
     // docker-machine camagru
     // docker-machine ip camagru  ---> 192.168.99.100
     // 
-    $DB_DNS = '192.168.99.100';
+    $DB_DNS = '0.0.0.0';
     $DB_PORT = '3306';
     $DB_USER = 'root';
-    $DB_PASSWORD = 'root';
+    $DB_PASSWORD = 'Tlqkf42!';
     $DB_NAME = 'camagru';
 
 ?>
