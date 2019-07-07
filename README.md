@@ -1,12 +1,17 @@
 42 Camagru
 ==========
-
+Demo
+---------
+Demo Link: http://13.57.176.0:3001
+<br>
+username: test
+<br>
+password: Test1234!
+<br>
 Main Page
 ----------
 ![Alt text](/images/main.gif)
-Demo Link: http://13.57.176.0:3001
-username: test
-password: Test1234!
+
 
 
 
