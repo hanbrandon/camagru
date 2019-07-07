@@ -7,7 +7,7 @@ Demo
 ### username: test
 <br>
 ### password: Test1234!
-<br>
+
 Main Page
 ----------
 ![Alt text](/images/main.gif)
