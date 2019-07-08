@@ -42,6 +42,7 @@ Take Picture Page (Webcam)
 >2. Select a sticker
 >3. Click 'TAKE PHOTO' button
 >4. Click 'UPLOAD' button
+
 ![Alt text](/images/uploadpost(webcam).png)
 
 Upload Picture Page (Upload .png File)
@@ -51,6 +52,7 @@ Upload Picture Page (Upload .png File)
 >3. Select a sticker
 >4. Click 'TAKE PHOTO' button
 >5. Click 'UPLOAD' button
+
 ![Alt text](/images/uploadpost(file).png)
 
 Comment
