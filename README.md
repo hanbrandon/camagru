@@ -1,10 +1,12 @@
 42 Camagru
 ==========
+> This project is to make Instagram like web application. You can check the subject from here()I used HTML, CSS, Bootstrap, and Javascript for the front-end, and I used PHP for the Back-end. 
+
 Demo
 ---------
 ### Demo Link: http://13.57.176.0:3001
 
->username: test
+>username: test<br>
 >password: Test1234!
 
 Main Page
