@@ -10,29 +10,38 @@ password: Test1234!
 
 Main Page
 ----------
-![Alt text](/images/main.gif)
+![Alt text](/images/main.png)
 
 Login Page
 ---------
-![Alt text](/images/main.gif)
+![Alt text](/images/login.png)
 
 Register Page
 ---------
-![Alt text](/images/main.gif)
+I disabled email verification for temporary. 
+![Alt text](/images/register.png)
 
 Forgot PW Page
 ---------
-![Alt text](/images/main.gif)
+![Alt text](/images/forgotpw.png)
+
+User Page
+--------
+![Alt text](/images/userpage.gif)
 
 Take Picture Page (Webcam)
 ---------
-![Alt text](/images/main.gif)
+![Alt text](/images/uploadpost(webcam).png)
 
 Upload Picture Page (Upload .png File)
 ---------
-![Alt text](/images/main.gif)
+.PNG FILE ONLY
+![Alt text](/images/uploadpost(file).png)
 
-Comment and Like 
+Comment
 --------
-![Alt text](/images/main.gif)
+![Alt text](/images/comment.gif)
 
+Like
+--------
+![Alt text](/images/like.gif)
