@@ -1,6 +1,9 @@
 42 Camagru
 ==========
-> This project is to make Instagram like web application. You can check the subject from [here](https://github.com/hanbrandon/camagru/blob/master/camagru.en.pdf). I used HTML, CSS, Bootstrap, and Javascript for the front-end, PHP for the Back-end, and I used Mysql for the DB.
+> I used HTML, CSS, Bootstrap, and Javascript for the front-end, PHP for the Back-end, and Mysql for the DB. I implemented AJAX and infinite Scroll by using Vanilla JS. Image merge function was done on back-end side (PHP)
+due to the requirement by subject.
+
+> This project is to make Instagram like web application. You can take a picture and merge with a sticker(mendatory). You can check the subject from [here](https://github.com/hanbrandon/camagru/blob/master/camagru.en.pdf). 
 
 Demo
 ---------
@@ -19,7 +22,7 @@ Login Page
 
 Register Page
 ---------
-> I disabled email verification for temporary. 
+> I disabled email verification (temporary). 
 
 ![Alt text](/images/register.png)
 
@@ -33,11 +36,21 @@ User Page
 
 Take Picture Page (Webcam)
 ---------
+>Use Firefox, Chrome doesn't work due to SSL Certification issue.
+
+>1. Enable Webcam
+>2. Select a sticker
+>3. Click 'TAKE PHOTO' button
+>4. Click 'UPLOAD' button
 ![Alt text](/images/uploadpost(webcam).png)
 
-> Upload Picture Page (Upload .png File)
+Upload Picture Page (Upload .png File)
 ---------
-.PNG FILE ONLY
+>1. Click 'Choose File' button
+>2. Select a .PNG FILE
+>3. Select a sticker
+>4. Click 'TAKE PHOTO' button
+>5. Click 'UPLOAD' button
 ![Alt text](/images/uploadpost(file).png)
 
 Comment
