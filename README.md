@@ -1,6 +1,6 @@
 42 Camagru
 ==========
-> This project is to make Instagram like web application. You can check the subject from here()I used HTML, CSS, Bootstrap, and Javascript for the front-end, and I used PHP for the Back-end. 
+> This project is to make Instagram like web application. You can check the subject from [here](https://github.com/hanbrandon/camagru/blob/master/camagru.en.pdf). I used HTML, CSS, Bootstrap, and Javascript for the front-end, and I used PHP for the Back-end. 
 
 Demo
 ---------
